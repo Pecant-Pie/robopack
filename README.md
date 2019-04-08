@@ -6,10 +6,11 @@ Instructions for installing the mods to play on the WJ Robotics Minecraft server
 2.1: If you're on windows, you can find it by pressing the windows key and typing %appdata%.\
 3: Move the *mods* folder into .minecraft.\
 4: Move the *config* folder into .minecraft (if you already have one, just merge the two).\
-5: Download the 
-9: Check that you completed all the steps, and run minecraft.
-10: When the launcher opens, click the arrow on the big green button and select *forge-14.23.5.2825*.\
-11: Once it loads minecraft, click multiplayer, add server, and type in the server ip.
+5: Download the installer file and run it.\
+6: Select *Install Client* and click *OK*.\
+7: Check that you completed all the steps, and run minecraft.
+8: When the launcher opens, click the arrow on the big green button and select *forge-14.23.5.2825*.\
+9: Once it loads minecraft, click multiplayer, add server, and type in the server ip.
 
 # Rules for the server
 1: Don't bully anyone\
