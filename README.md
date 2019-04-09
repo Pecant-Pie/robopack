@@ -16,4 +16,5 @@ Instructions for installing the mods to play on the WJ Robotics Minecraft server
 # Rules for the server
 1: Don't bully anyone\
 2: Don't grief for the sake of griefing\
-3: Code dem Turtles!!!
+3: Don't steal anyone's stuff\
+4: Code dem Turtles!!!
