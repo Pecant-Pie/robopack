@@ -1,15 +1,15 @@
 # Robotics Minecraft Modpack
 Instructions for installing the mods to play on the WJ Robotics Minecraft server:
 
-1: Download the *ModsAndConfig* .zip file and copy the files inside it onto your computer.\
-2: Locate your .minecraft folder on your computer and open it.\
-2.1: If you're on windows, you can find it by pressing the windows key and typing %appdata%.\
-2.5: Right click the `ModsAndConfig` file and click open.\
-3: Move the *mods* folder into .minecraft.\
-4: Move the *config* folder into .minecraft (if you already have one, just merge the two).\
-5: Download the installer file and run it.\
-6: Select *Install Client* and click *OK*.\
-7: Check that you completed all the steps, and run minecraft.
+1: Download `Robotics.zip`\
+1: Download the Twitch Desktop App and run the installer.\
+2: Run the Twitch Desktop App and click the "Mods" tab at the top.\
+4: Then click "Minecraft" and from there, "Create Custom Profile".\
+5: You should see a menu that looks just like the one in the provided screen capture.  Click the word "import" that I circled for you.
+
+![Screenshot](https://github.com/Pecant-Pie/modpackhelp/blob/master/modpackimportcircle.PNG)
+
+6: Navigate to the .zip file you downloaded, select it, and click "Open".\
 8: When the launcher opens, click the arrow on the big green button and select *forge-14.23.5.2825*.\
 9: Once it loads minecraft, click multiplayer, add server, and type in the server ip.
 
