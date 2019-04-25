@@ -14,7 +14,7 @@ Instructions for installing the mods to play on the WJ Robotics Minecraft server
 9: Once it loads minecraft, click multiplayer, and join the server listed.
 
 # Rules for the server
-1: Don't bully anyone\
+1: Don't be a dick\
 2: Don't grief for the sake of griefing\
 3: Don't get caught stealing anyone's stuff\
 4: Code dem Turtles!!!
