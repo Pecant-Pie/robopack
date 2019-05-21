@@ -2,9 +2,9 @@
 Instructions for installing the mods to play on the WJ Robotics Minecraft server:
 
 1: Download the `Robotics-1.0.0` .zip file\
-1: Download the Twitch Desktop App and run the installer.\
-2: Run the Twitch Desktop App, login, and click the "Mods" tab at the top.\
-4: Then click "Minecraft" and from there, "Create Custom Profile".\
+1: Download the MultiMC modpack launcher and run the installer.\
+2: Run the .exe in the folder the installer used.\
+4: Then click "Add Instance" and from there, "Import from zip".\
 5: You should see a menu that looks just like the one in the provided screen capture.  Click the word "import" that I circled for you.
 
 ![Screenshot](https://github.com/Pecant-Pie/modpackhelp/blob/master/modpackimportcircle.PNG)
