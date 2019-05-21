@@ -8,6 +8,9 @@ Instructions for installing the mods to play on the WJ Robotics Minecraft server
 5: Then click `Import from zip`, then `Browse`, and double-click the zip file you installed in step 3.\
 6. Then click the instance and click `Edit Instance` on the right column.\
 7: Then click `Loader mods`, and for each link listed below, download the .jar file and `Add` it to your loader mods.\
+8: Now add your account in the top right and double click your minecraft instance.\
+9: READ THE RULES!!\
+10: Ok now get on the server.
 
 # Mods
 https://minecraft.curseforge.com/projects/antique-atlas/files/2713814 <br/>
