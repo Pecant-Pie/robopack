@@ -3,14 +3,16 @@ Instructions for installing the mods to play on the WJ Robotics Minecraft server
 
 1: Download the MultiMC modpack launcher and run the installer.\
 2: Run the .exe in the folder the installer used.\
-3: Then click "Add Instance" and from there, "Vanilla".\
-5: Click the version number saying ```1.14.1```.
+3: Then go to this link: https://fabricmc.net/use/ and download the latest 1.14.1 MultiMC build\
+4: Then click `Add Instance` in the top left of the MultiMC launcher.\
+5: Then click `Import from zip`, then `Browse`, and double-click the zip file you installed in step 3.\
+6. Then click the instance and click `Edit Instance` on the right column.\
+7: Then click `Loader mods`, and for each link listed below, download the .jar file and `Add` it to your loader mods.\
 
-![Screenshot]
+# Mods
+https://minecraft.curseforge.com/projects/antique-atlas/files/2713814\
 
-6: Navigate to the .zip file you downloaded, select it, and click "Open".\
-8: When the launcher opens, click the arrow on the big green button and select *forge-14.23.5.2825*.\
-9: Once it loads minecraft, click multiplayer, and join the server listed.
+
 
 # Rules for the server
 1: Don't be a dick\
