@@ -18,7 +18,7 @@ Then type ~/Library/Application Support/minecraft and hit ↵ Enter.\
 7: Open your minecraft launcher and click `Installations` at the top.\
 8: Hover over `forge` and click play on the right side.\
 9: Click Multiplayer and then `Add Server` and type in the server IP address and any name you want.\
-10: Read the rules, on this page and where the server is listed, and then double click the server to play.\
+10: Read the rules, on this page and where the server is listed, and then double click the server to play.
 
 
 # LINKS
