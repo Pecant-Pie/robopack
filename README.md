@@ -23,7 +23,7 @@ Then type ~/Library/Application Support/minecraft and hit ↵ Enter.\
 
 # LINKS
 
-1: https://www.minecraft.net/en-us/download/ \
+1: https://www.minecraft.net/en-us/download/  
 
 
 
