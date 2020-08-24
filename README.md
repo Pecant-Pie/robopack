@@ -11,8 +11,8 @@ the mods we will be using are VoxelMap, Just Enough Items, and CC: Tweaked.\
 2a: To do this on windows, click the windows key, type %appdata%, and then press enter and it should be listed there.\
 2b: To do this on mac, Press ⌘ Command + Space or open the Spotlight popup through the magnifying glass icon in the right of the Menu Bar.
 Then type ~/Library/Application Support/minecraft and hit ↵ Enter.\
-3: Download `FILENAMEHERE.zip` from this web page.\
-4: Open `FILENAMEHERE.zip` and copy the mods folder.\
+3: Download `Robotics Minecraft Files.zip` from this web page.\
+4: Open `Robotics Minecraft Files.zip` and copy the mods folder.\
 5: Paste the mods folder into your .minecraft folder.\
 6: Run `forge-1.16.2-33.0.20-installer.jar`, select `Install client`, and click `OK`.\
 7: Open your minecraft launcher and click `Installations` at the top.\
