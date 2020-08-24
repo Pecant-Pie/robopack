@@ -1,40 +1,39 @@
 # Robotics Minecraft Modpack
 Instructions for installing the mods to play on the WJ Robotics Minecraft server:
 
-1: Download the MultiMC modpack launcher and run the installer.\
-2: Run the .exe in the folder the installer used.\
-3: Then go to this link: https://fabricmc.net/use/ and download the latest 1.14.1 MultiMC build\
-4: Then click `Add Instance` in the top left of the MultiMC launcher.\
-5: Then click `Import from zip`, then `Browse`, and double-click the zip file you installed in step 3.\
-6. Then click the instance and click `Edit Instance` on the right column.\
-7: Then click `Loader mods`, and for each link listed below, download the .jar file and `Add` it to your loader mods.\
-8: Now add your account in the top right and double click your minecraft instance.\
-9: READ THE RULES!!\
-10: Ok now get on the server.
+0: This tutorial is for a typical 1.16.2 installation. If you wish to use Twitch or MultiMC,
+the mods we will be using are VoxelMap, Just Enough Items, and CC: Tweaked.
+1: First, make sure you have the minecraft launcher downloaded.\
+1a: This means it should say JAVA EDITION on the main menu.\
+1b: If it doesn't, you opened/have an incompatible version of minecraft.\
+1c: To get the necessary version, click the 1st link at the bottom of this page.
+2: Now, open your .minecraft folder and leave it open.\
+2a: To do this on windows, click the windows key, type %appdata%, and then press enter and it should be listed there.\
+2b: To do this on mac, Press ⌘ Command + Space or open the Spotlight popup through the magnifying glass icon in the right of the Menu Bar.
+Then type ~/Library/Application Support/minecraft and hit ↵ Enter.\
+3: Download `FILENAMEHERE.zip` from this web page.\
+4: Open `FILENAMEHERE.zip` and copy the mods folder.\
+5: Paste the mods folder into your .minecraft folder.\
+6: Run `forge-1.16.2-33.0.20-installer.jar`, select `Install client`, and click `OK`.\
+7: Open your minecraft launcher and click `Installations` at the top.\
+8: Hover over `forge` and click play on the right side.\
+9: Click Multiplayer and then `Add Server` and type in the server IP address and any name you want.\
+10: Read the rules, on this page and where the server is listed, and then double click the server to play.\
+
+
+# LINKS
+
+1: https://www.minecraft.net/en-us/download/ \
+
+
 
 # Mods
-https://minecraft.curseforge.com/projects/antique-atlas/files/2713814 <br/>
-https://minecraft.curseforge.com/projects/arcanemagic/files/2711432<br/>
-https://minecraft.curseforge.com/projects/beach-slimes/files/2713087<br/>
-https://minecraft.curseforge.com/projects/cc-tweaked/files/2711098<br/>
-https://minecraft.curseforge.com/projects/crochet/files/2713035<br/>
-https://minecraft.curseforge.com/projects/cutscene-api/files/2711282<br/>
-https://minecraft.curseforge.com/projects/easyexcavate/files/2713190<br/>
-https://minecraft.curseforge.com/projects/fabric/files/2712283<br/>
-https://minecraft.curseforge.com/projects/fabric-language-kotlin/files/2699441<br/>
-https://minecraft.curseforge.com/projects/health-overlay/files/2713684<br/>
-https://minecraft.curseforge.com/projects/homewardbone/files/2713536<br/>
-https://minecraft.curseforge.com/projects/level-up-hp/files/2713103<br/>
-https://minecraft.curseforge.com/projects/light-overlay/files/2712629<br/>
-https://minecraft.curseforge.com/projects/modmenu/files/2710904<br/>
-https://minecraft.curseforge.com/projects/roughly-enough-items/files/2712648<br/>
-https://minecraft.curseforge.com/projects/silk/files/2701410<br/>
-https://minecraft.curseforge.com/projects/stockpile/files/2711212<br/>
-https://minecraft.curseforge.com/projects/whilewewait/files/2711684<br/>
-
+https://www.curseforge.com/minecraft/mc-mods/voxelmap  
+https://www.curseforge.com/minecraft/mc-mods/cc-tweaked  
+https://www.curseforge.com/minecraft/mc-mods/jei  
 
 
 
 # Rules for the server
-1: Don't be a dick\
-2: Code dem Turtles!!!
+1: Be excellent to each other\
+2: Establish dominance through superior coding skill!!!
