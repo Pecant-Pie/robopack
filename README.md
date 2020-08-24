@@ -6,7 +6,7 @@ the mods we will be using are VoxelMap, Just Enough Items, and CC: Tweaked.\
 1: First, make sure you have the minecraft launcher downloaded.\
 1a: This means it should say JAVA EDITION on the main menu.\
 1b: If it doesn't, you opened/have an incompatible version of minecraft.\
-1c: To get the necessary version, click the 1st link at the bottom of this page.
+1c: To get the necessary version, click the 1st link at the bottom of this page.\
 2: Now, open your .minecraft folder and leave it open.\
 2a: To do this on windows, click the windows key, type %appdata%, and then press enter and it should be listed there.\
 2b: To do this on mac, Press ⌘ Command + Space or open the Spotlight popup through the magnifying glass icon in the right of the Menu Bar.
@@ -28,8 +28,8 @@ Then type ~/Library/Application Support/minecraft and hit ↵ Enter.\
 
 
 # Mods
-https://www.curseforge.com/minecraft/mc-mods/voxelmap  
-https://www.curseforge.com/minecraft/mc-mods/cc-tweaked  
+https://www.curseforge.com/minecraft/mc-mods/voxelmap  \
+https://www.curseforge.com/minecraft/mc-mods/cc-tweaked  \
 https://www.curseforge.com/minecraft/mc-mods/jei  
 
 
