@@ -2,7 +2,7 @@
 Instructions for installing the mods to play on the WJ Robotics Minecraft server:
 
 0: This tutorial is for a typical 1.16.2 installation. If you wish to use Twitch or MultiMC,
-the mods we will be using are VoxelMap, Just Enough Items, and CC: Tweaked.
+the mods we will be using are VoxelMap, Just Enough Items, and CC: Tweaked.\
 1: First, make sure you have the minecraft launcher downloaded.\
 1a: This means it should say JAVA EDITION on the main menu.\
 1b: If it doesn't, you opened/have an incompatible version of minecraft.\
